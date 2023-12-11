@@ -13,27 +13,27 @@ The dataset is split into training, validation, and test sets. The features are 
 # Classification Models
 The following classification models are implemented and evaluated on the test set:
 
-# k-Nearest Neighbors (kNN):
+** k-Nearest Neighbors (kNN):**
 
 Utilizes the KNeighborsClassifier from scikit-learn.
 Prints the classification report.
 
-# Naive Bayes:
+**Naive Bayes:**
 
 Implements Gaussian Naive Bayes using GaussianNB from scikit-learn.
 Prints the classification report.
 
-# Logistic Regression:
+**Logistic Regression:**
 
 Applies logistic regression using LogisticRegression from scikit-learn.
 Prints the classification report.
 
-# Support Vector Machines (SVM):
+**Support Vector Machines (SVM):**
 
 Implements a Support Vector Machine classifier using SVC from scikit-learn.
 Prints the classification report.
 
-# Neural Network:
+**Neural Network:**
 
 Implements a simple neural network using TensorFlow/Keras.
 The architecture includes multiple layers with configurable parameters.
