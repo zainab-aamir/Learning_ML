@@ -13,7 +13,7 @@ The dataset is split into training, validation, and test sets. The features are 
 # Classification Models
 The following classification models are implemented and evaluated on the test set:
 
-** k-Nearest Neighbors (kNN):**
+**k-Nearest Neighbors (kNN):**
 
 Utilizes the KNeighborsClassifier from scikit-learn.
 Prints the classification report.
